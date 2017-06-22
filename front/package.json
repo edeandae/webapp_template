@@ -4,8 +4,7 @@
   "description": "Front End for Webapp template",
   "main": "Gruntfile.js",
   "private": true,
-  "repository": {
-  },
+  "repository": {},
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-browserify-bower": "~0.1.4",

@@ -4,8 +4,7 @@
   "description": "Webapp_template",
   "main": "Gruntfile.js",
   "private": true,
-  "repository": {
-  },
+  "repository": {},
   "author": "Andrew Dapkiewicz",
   "license": "Private",
   "dependencies": {
