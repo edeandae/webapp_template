@@ -1,3 +1,20 @@
 .todoList{
-  
+h2{
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+}
+li{
+  color: blue;
+  font-family: courier;
+  font-size: 200%;
+}
+form-button{
+  color: green;
+  font-size: 150%;
+}
+  .done-true{
+    text-decoration: line-through;
+    color: grey;
+  }
 }
